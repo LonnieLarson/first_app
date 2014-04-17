@@ -1,0 +1,1 @@
+This is the first app in the Ruby on Rails tutorial but I don't know whether tutorial should be capitalized or not so sue me.
